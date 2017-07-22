@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryStatus.Android", "Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryStatus", "BatteryStatus\BatteryStatus\BatteryStatus.csproj", "{EF3719CB-790B-4A22-9EDD-B90FEB7D13BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryStatus.iOS", "BatteryStatus\BatteryStatus.iOS\BatteryStatus.iOS.csproj", "{80E1F286-082F-41FF-889F-F2B6A9838A04}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
@@ -85,26 +83,6 @@ Global
 		{EF3719CB-790B-4A22-9EDD-B90FEB7D13BF}.Release|iPhone.Build.0 = Release|Any CPU
 		{EF3719CB-790B-4A22-9EDD-B90FEB7D13BF}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{EF3719CB-790B-4A22-9EDD-B90FEB7D13BF}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Ad-Hoc|Any CPU.ActiveCfg = Ad-Hoc|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.AppStore|Any CPU.ActiveCfg = AppStore|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.AppStore|iPhone.Build.0 = AppStore|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Debug|Any CPU.ActiveCfg = Debug|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Debug|iPhone.Build.0 = Debug|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Release|Any CPU.ActiveCfg = Release|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Release|iPhone.ActiveCfg = Release|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Release|iPhone.Build.0 = Release|iPhone
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
-		{80E1F286-082F-41FF-889F-F2B6A9838A04}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
